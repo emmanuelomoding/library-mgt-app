@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "123453474054",
+    "project_id": "library-management-app-a37a1",
+    "storage_bucket": "library-management-app-a37a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123453474054:android:cd3737b6152aeba0624a87",
+        "android_client_info": {
+          "package_name": "com.emmanuelomoding.librarymanagementapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123453474054-j42f04uq7rnuqqolvvf9hcpo5tmlsr4v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJjrnA-RzptyxpvNghD4pZf_dSozAm2So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123453474054-j42f04uq7rnuqqolvvf9hcpo5tmlsr4v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
